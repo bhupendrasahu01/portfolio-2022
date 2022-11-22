@@ -37,7 +37,7 @@ import spotify from '../assets/spotify.png';
 import logoa from '../assets/logoa.png';
 
 
-export default {
+const images= {
 
   email,
   mobile,
@@ -75,3 +75,4 @@ export default {
   logoa
 
 };
+export default images;
